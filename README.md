@@ -1,4 +1,4 @@
-Navigatble Interactive Environment For Three.Js 
+Navigatable Interactive Environment For Three.Js 
 
 Overview:
 This Repository contains the Javascript code that imports a pre-made virtual structure into a browsering using HTML, CSS and the three.js library. 
